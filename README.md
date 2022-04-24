@@ -1,4 +1,4 @@
-# ReactJs-Refactoring-Classes-TS
+# Refactoring-Classes-TS
 Essa é uma aplicação já funcional onde o seu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
 ## Como Deve Ficar a Aplicação
