@@ -77,7 +77,7 @@ Com o repositório clonado anteriormente, é preciso somente executar a aplicaç
 ```bash
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn dev # ou npm run dev
+$ yarn start # ou npm run start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
